@@ -1,3 +1,5 @@
+ # NOTICE: LEGACY REPO, [GO HERE!](https://github.com/Jaika1/Taiko-Controller)
+ 
  # Jaika★'s Taiko Drum Interface (BlueSquidInterface)
 
  A feature-rich alternative to the traditional boxes seen with replica Taiko arcade drums, using Arduino as the basis for easy accessibility of parts.
